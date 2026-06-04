@@ -55,6 +55,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TheRustBook笔记](https://lemonadorable.github.io/blog/therustbooknote)
+- [🌌 最终测试：超弦虚空接口](https://lemonadorable.github.io/blog/test-mdx)
+- [AI 应用全景概述：基础设施与实践](https://lemonadorable.github.io/blog/ai-applications-guide)
+- [BullBear Dashboard：数据驱动的加密市场状态机](https://lemonadorable.github.io/blog/bullbear-dashboard)
+- [Guadao：可验证的自治闭环](https://lemonadorable.github.io/blog/guadao)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
