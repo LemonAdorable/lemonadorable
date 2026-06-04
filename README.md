@@ -50,7 +50,9 @@
 
 <details>
 <summary style="cursor: pointer">More details...</summary>
-  
+
+[![lemon profile views](https://u8views.com/api/v1/github/profiles/21191585/views/day-week-month-total-count.svg)](https://u8views.com/github/LemonAdorable)
+
 ![Metrics](/github-metrics.svg)
 
 ### Blog posts
