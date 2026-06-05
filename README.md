@@ -57,11 +57,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TheRustBook笔记](https://lemonadorable.github.io/blog/therustbooknote)
+- [TheRustBook笔记](https://lemonadorable.github.io/blog/note/therustbooknote)
 - [🌌 最终测试：超弦虚空接口](https://lemonadorable.github.io/blog/test-mdx)
-- [AI 应用全景概述：基础设施与实践](https://lemonadorable.github.io/blog/ai-applications-guide)
-- [BullBear Dashboard：数据驱动的加密市场状态机](https://lemonadorable.github.io/blog/bullbear-dashboard)
-- [Guadao：可验证的自治闭环](https://lemonadorable.github.io/blog/guadao)
+- [Astro Theme Iris：打造个人知识管理系统](https://lemonadorable.github.io/blog/astro-theme-iris)
+- [LaTeX使用中的一些坑](https://lemonadorable.github.io/blog/note/latex)
+- [Word写论文的各种奇怪要求怎么解决](https://lemonadorable.github.io/blog/note/word)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
