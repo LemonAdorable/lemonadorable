@@ -57,11 +57,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TheRustBook笔记](https://lemonadorable.github.io/blog/note/therustbooknote)
+- [TheRustBook笔记](https://lemonadorable.github.io/blog/therustbooknote)
 - [🌌 最终测试：超弦虚空接口](https://lemonadorable.github.io/blog/test-mdx)
 - [Astro Theme Iris：打造个人知识管理系统](https://lemonadorable.github.io/blog/astro-theme-iris)
-- [LaTeX使用中的一些坑](https://lemonadorable.github.io/blog/note/latex)
-- [Word写论文的各种奇怪要求怎么解决](https://lemonadorable.github.io/blog/note/word)
+- [LaTeX使用中的一些坑](https://lemonadorable.github.io/blog/latex)
+- [Word写论文的各种奇怪要求怎么解决](https://lemonadorable.github.io/blog/word)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
